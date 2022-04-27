@@ -39,7 +39,7 @@ else:
 
 <a> Isto não é um link, apenas coloquei em azul mesmo. 
 
-Tchau.
+Tchau, Tchau
 
 
 
